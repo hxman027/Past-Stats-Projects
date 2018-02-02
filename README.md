@@ -1,3 +1,3 @@
 # Past-Stats-Projects
 
-Past statistics course porjects
+Past statistics course projects
